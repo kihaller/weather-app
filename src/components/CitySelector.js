@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-import { conditionToIconName } from "./utils";
 import { WeatherContext } from "../contexts/WeatherContext";
 import City from "./City";
 
