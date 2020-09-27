@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This weather app was built completely with the latest React technology. It utilizes React Hooks within functional components. React Context is used to share the current condition & forecast among components.
 The data is aynchronously fetched from Open Weather Map on page load.
 
-![screenshot](/Users/kimhaller/Desktop/Coding Projects/weather-app/public/images/screenshot.png)
+![screenshot](./public/images/screenshot.png)
 
 
 
